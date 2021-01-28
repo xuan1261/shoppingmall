@@ -12,7 +12,7 @@ export default {
     path: String,
     activeColor: {
       type: String,
-      default: "#1296db",
+      default: "#ff8d97",
     },
   },
   computed: {
